@@ -1,0 +1,24 @@
+{
+  "name": "sn-file-validator",
+  "version": "1.0.0",
+  "description": "Validate ServiceNow Files for invalid configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takshashil-s/sn-file-validator.git"
+  },
+  "keywords": [
+    "ServiceNow",
+    "File",
+    "Validations"
+  ],
+  "author": "Takshashil Shambharkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takshashil-s/sn-file-validator/issues"
+  },
+  "homepage": "https://github.com/takshashil-s/sn-file-validator#readme"
+}
